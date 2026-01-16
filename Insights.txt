@@ -1,0 +1,11 @@
+Summary Insights
+
+Technology is the highest revenue-generating category with total sales of 836,154.
+
+West region contributes the highest total sales (725,458).
+
+South region is the lowest-performing region (391,722 sales).
+
+West region has the highest average profit margin (21.95%).
+
+Central region shows a negative average profit margin (-10.41%).
